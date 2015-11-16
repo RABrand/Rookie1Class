@@ -1,0 +1,2 @@
+# Rookie1Class
+Beginner
